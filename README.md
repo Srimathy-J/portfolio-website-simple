@@ -23,7 +23,7 @@ It can serve as a foundation for adding more pages, interactivity with JavaScrip
   CSS3
 
 ## How to visit:
-To visit my portfolio,click the following link-
+To visit my portfolio,click the following link- https://srimathy-j.github.io/portfolio-website-simple/
 
 
 ## Thankyou for visiting my portfolio and feel free to get in Touch
